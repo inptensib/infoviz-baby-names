@@ -1,0 +1,3 @@
+altair[all]
+pandas
+geopandas

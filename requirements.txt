@@ -1,3 +1,4 @@
 altair[all]
 pandas
 geopandas
+jupyterlab
